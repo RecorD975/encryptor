@@ -1,2 +1,2 @@
-# encryptor
-# all needed info - python3 encryptor.py -h
+# Encryptor
+All needed info - python3 encryptor.py -h
